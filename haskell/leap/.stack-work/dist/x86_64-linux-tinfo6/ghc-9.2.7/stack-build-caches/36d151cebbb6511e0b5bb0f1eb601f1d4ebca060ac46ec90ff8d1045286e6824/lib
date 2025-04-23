@@ -1,0 +1,14 @@
+/home/frank/.stack/programs/x86_64-linux/ghc-tinfo6-9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/frank/dev/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/Paths_leap.hs:
+  hash: fc74b9efb6f341e2f93d2786cba945aa5994afe99fd496916831534835c0d7e7
+/home/frank/dev/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 0c462b999e2354fdae6a8372f3c8a36702b13ca55279b40de42e4032544fb5cf
+/home/frank/dev/exercism/haskell/leap/leap.cabal:
+  hash: 92d2dc1c77ca2922f3afe23222da0d47dd8a56eea4fa0b425fef3e5cf09efab8
+/home/frank/dev/exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/home/frank/dev/exercism/haskell/leap/src/LeapYear.hs:
+  hash: 9a18bf45b948a24657a82f65cb7a280d85f4465d4029e75228df215c5a69dc08
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

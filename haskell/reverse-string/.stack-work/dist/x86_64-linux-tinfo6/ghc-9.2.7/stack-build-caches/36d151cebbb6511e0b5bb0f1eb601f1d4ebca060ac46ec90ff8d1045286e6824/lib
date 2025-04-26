@@ -1,0 +1,14 @@
+/home/frank/.stack/programs/x86_64-linux/ghc-tinfo6-9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/frank/dev/exercism/haskell/reverse-string/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/Paths_reverse_string.hs
+: hash: e73600124001d04559a307278a04787492d02424d9821a0957c8a0fcdfb17a11
+/home/frank/dev/exercism/haskell/reverse-string/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 27ff727a4f7abe6eee65d309a9180117d279e4b3c149931b5332e787c11cbfc8
+/home/frank/dev/exercism/haskell/reverse-string/package.yaml:
+  hash: b890e1480b3250833d7ab93c04b7bd4033e0b9cbfeb80993edf2f6d8ec141585
+/home/frank/dev/exercism/haskell/reverse-string/reverse-string.cabal:
+  hash: e9a650177b3ad811f2363139dbf9b2d5682051c002d3b5c372ebfefe80593fef
+/home/frank/dev/exercism/haskell/reverse-string/src/ReverseString.hs:
+  hash: 70f58ff7414f82730ade10d5f7844670919446c48653f1c33ca07e10a62302f2
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15
